@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this line is from main
-=======
-this line is from feature-branch
->>>>>>> feature-branch
